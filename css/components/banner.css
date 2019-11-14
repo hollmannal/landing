@@ -1,0 +1,28 @@
+.banner {
+  background-image: url('../../images/background.png');
+  color: white;
+  padding: 200px 0;
+  background-size: cover;
+  background-position: center;
+}
+
+.btn-red {
+  color: white;
+  padding: 17px 30px;
+  border-radius: 30px;
+  background: #1DDD88;
+  transition: background 0.3s ease;
+  margin-top: 0;
+}
+
+.banner h1 {
+  padding: 5px;
+  font-size: 32px;
+  margin-bottom: 0;
+}
+
+.banner p {
+  font-size: 20px;
+  margin-top: 10px;
+  margin-bottom: 40px;
+}
